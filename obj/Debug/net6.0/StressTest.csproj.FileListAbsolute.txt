@@ -1,0 +1,15 @@
+C:\Users\azefr\Documents\SideProjects\StressTest\bin\Debug\net6.0\StressTest.exe
+C:\Users\azefr\Documents\SideProjects\StressTest\bin\Debug\net6.0\StressTest.deps.json
+C:\Users\azefr\Documents\SideProjects\StressTest\bin\Debug\net6.0\StressTest.runtimeconfig.json
+C:\Users\azefr\Documents\SideProjects\StressTest\bin\Debug\net6.0\StressTest.dll
+C:\Users\azefr\Documents\SideProjects\StressTest\bin\Debug\net6.0\StressTest.pdb
+C:\Users\azefr\Documents\SideProjects\StressTest\obj\Debug\net6.0\StressTest.csproj.AssemblyReference.cache
+C:\Users\azefr\Documents\SideProjects\StressTest\obj\Debug\net6.0\StressTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azefr\Documents\SideProjects\StressTest\obj\Debug\net6.0\StressTest.AssemblyInfoInputs.cache
+C:\Users\azefr\Documents\SideProjects\StressTest\obj\Debug\net6.0\StressTest.AssemblyInfo.cs
+C:\Users\azefr\Documents\SideProjects\StressTest\obj\Debug\net6.0\StressTest.csproj.CoreCompileInputs.cache
+C:\Users\azefr\Documents\SideProjects\StressTest\obj\Debug\net6.0\StressTest.dll
+C:\Users\azefr\Documents\SideProjects\StressTest\obj\Debug\net6.0\refint\StressTest.dll
+C:\Users\azefr\Documents\SideProjects\StressTest\obj\Debug\net6.0\StressTest.pdb
+C:\Users\azefr\Documents\SideProjects\StressTest\obj\Debug\net6.0\StressTest.genruntimeconfig.cache
+C:\Users\azefr\Documents\SideProjects\StressTest\obj\Debug\net6.0\ref\StressTest.dll
