@@ -1,4 +1,5 @@
 ﻿using StressTest.CPU;
+
 using System;
 
 namespace StressTest 
@@ -10,6 +11,11 @@ namespace StressTest
             CpuStressTest cpuStressTest = new CpuStressTest();
 
             cpuStressTest.Stress();
+            
+            
+
+
+
         }
     }
 }

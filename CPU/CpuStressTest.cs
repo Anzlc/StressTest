@@ -17,9 +17,11 @@ namespace StressTest.CPU
 
             for (int i = 0; i < Environment.ProcessorCount; i++)
             {
-                Console.WriteLine($"Thread {i}# started!");
+                 
+                Console.WriteLine($"Thread {i + 1}# started!");
                 Thread thread = new Thread(new ThreadStart(GeneratePrimeNumbers));
                 thread.Start();
+                
             }
 
             GeneratePrimeNumbers();
