@@ -28,13 +28,13 @@ namespace StressTest.CPU
         }
 
         internal void GeneratePrimeNumbers() {
-            int i = 1;
-            int primeNumbersCount = 0;
+            UInt64 i = 1;
+            UInt64 primeNumbersCount = 0;
             while (true)
             {
                
                 int dividerCount = 0;
-                for (int j = 1; j <= i; j++)
+                for (UInt64 j = 1; j <= i; j++)
                 {
                     if (i % j == 0)
                     { 
